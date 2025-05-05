@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 
 const slides = [
-  "public/slider2.jpeg",
-   "public/slider1.jpeg",
+  "/slider2.jpeg",
+   "/slider1.jpeg",
   
 
 ];
