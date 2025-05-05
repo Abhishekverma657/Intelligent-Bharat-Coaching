@@ -13,7 +13,7 @@ function Navbar() {
         <div className="flex justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center text-xl font-bold text-blue-600">
-            <img src="public/IB_logo.png" alt="Logo" className="h-8 w-8 mr-2 rounded-full" />
+            <img src="/IB_logo.png" alt="Logo" className="h-8 w-8 mr-2 rounded-full" />
             <h1 className="text-2xl font-bold text-red-600 font-orbitron tracking-wide drop-shadow-sm">
               Intelligent <span className="text-blue-900">Bharat</span>
             </h1>

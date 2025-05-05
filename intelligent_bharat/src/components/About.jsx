@@ -13,7 +13,7 @@ const AboutUs = () => {
       {/* Image */}
       <div className="md:w-1/2 w-full mb-10 md:mb-0" data-aos="fade-right">
         <img
-          src="/public/IB_logo.png" // Apne image ka path yahan daalo
+          src="/IB_logo.png" // Apne image ka path yahan daalo
           alt="About Us"
           className="w-full h-auto rounded-xl shadow-lg"
         />

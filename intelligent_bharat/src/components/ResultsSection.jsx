@@ -3,16 +3,16 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 const students = [
-  { name: "Radhika", college: "AIIMS, Delhi", exam: "NEET", img: "public/female3.png" },
-  { name: "Harnoor", college: "IIT Bombay", exam: "IIT-JEE", img: "public/male3.png" },
-  { name: "Vipasha", college: "Maulana Azad Medical College", exam: "NEET", img: "public/female2.png" },
-  { name: "Kapil", college: "IIT Kanpur", exam: "IIT-JEE", img: "public/male2.png" },
-  { name: "Anshika", college: "GMC, Patiala", exam: "NEET", img: "public/female3.png" },
-  { name: "Vanika", college: "IIT Delhi", exam: "IIT-JEE", img: "public/female2.png" },
-  { name: "Anshika", college: "Lady Hardinge Medical College", exam: "NEET", img: "public/female3.png" },
-  { name: "Parvesh", college: "IIT Kharagpur", exam: "IIT-JEE", img: "public/male2.png" },
-  { name: "Arshdeep", college: "KGMU, Lucknow", exam: "NEET", img: "public/male3.png" },
-  { name: "Kashish", college: "IIT Madras", exam: "IIT-JEE", img: "public/female2.png" },
+  { name: "Radhika", college: "AIIMS, Delhi", exam: "NEET", img: "/female3.png" },
+  { name: "Harnoor", college: "IIT Bombay", exam: "IIT-JEE", img: "/male3.png" },
+  { name: "Vipasha", college: "Maulana Azad Medical College", exam: "NEET", img: "/female2.png" },
+  { name: "Kapil", college: "IIT Kanpur", exam: "IIT-JEE", img: "/male2.png" },
+  { name: "Anshika", college: "GMC, Patiala", exam: "NEET", img: "/female3.png" },
+  { name: "Vanika", college: "IIT Delhi", exam: "IIT-JEE", img: "/female2.png" },
+  { name: "Anshika", college: "Lady Hardinge Medical College", exam: "NEET", img: "/female3.png" },
+  { name: "Parvesh", college: "IIT Kharagpur", exam: "IIT-JEE", img: "/male2.png" },
+  { name: "Arshdeep", college: "KGMU, Lucknow", exam: "NEET", img: "/male3.png" },
+  { name: "Kashish", college: "IIT Madras", exam: "IIT-JEE", img: "/female2.png" },
 ];
 
 const ResultsSection = () => {

@@ -27,8 +27,8 @@ const ContactSection = () => {
   {/* Logo */}
   <div className="w-50 h-50 rounded-full bg-gray-200 overflow-hidden mb-6 shadow-lg flex items-center justify-center">
     <img
-      src="public/IB_logo.png"
-      alt="Aryabhatt Institute Logo"
+      src="/IB_logo.png"
+      alt=" Institute Logo"
       className="w-50 h-50 object-contain"
     />
   </div>
